@@ -1,0 +1,33 @@
+html{
+      background-color: rgb(40,40,40);
+}
+h1,h2,p{
+      text-align: center;
+}
+body{
+      color; aliceblue;
+}
+img{
+      display: block;
+      margin: 0 auto;
+}
+a:link{
+      text-decoration: none;
+      color: aliceblue;
+}
+a:visited{
+      text-decoration: none;
+      color: brown;
+}
+a:hover{
+      text-decoration: none;
+      color: brown;
+}
+p{
+      text-indent: lem;
+}
+@keyfranes fadein{
+      from{opacity: 0;}
+      to{opacity: 1;}
+}
+}
